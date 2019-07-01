@@ -14,7 +14,7 @@ Based on `inquirer.js` validation, the transaction is either completed or halted
 
 ## Tools Used
 
-LIRI is a CLI app using the following languages, tools, and libraries:
+Bamazon is a CLI app using the following languages, tools, and libraries:
 
 - JavaScript
 - Node.js
